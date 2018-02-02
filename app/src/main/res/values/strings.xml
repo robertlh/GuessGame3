@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessGame</string>
+    <string name="textCorrect">Good Job!</string>
+    <string name="textLow">Too Small</string>
+    <string name="textHigh">Too Big</string>
+    <string name="settings">Settings</string>
+    <string name="new_number">New Number</string>
+</resources>
